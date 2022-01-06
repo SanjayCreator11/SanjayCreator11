@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SanjayCreator11
-- 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Python App Development
+- 👋 Hi, I’m @SanjayCreator11 
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Cyber Security
+- 💞️ I’m looking to collaborate on any Projects With Cyber Security/Python/Web Development/Networking/Computer Hardware/Electronics
 - 📫 How to reach me Instagram-cyborg_sanjay
 
 <!---
